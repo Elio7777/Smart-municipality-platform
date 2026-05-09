@@ -1,6 +1,6 @@
 # Smart Municipality Platform
 
-A modern civic platform for **Jounieh Municipality** that lets citizens report issues, request services, and stay informed — and gives administrators a dashboard to manage everything in one place. Built as a React + Vite Single-Page Application with a Node.js/Express backend and a MySQL database, fully installable as a Progressive Web App on desktop and mobile.
+A modern civic platform for municipalities that lets citizens report issues, request services, and stay informed — and gives administrators a dashboard to manage everything in one place. Built as a React + Vite Single-Page Application with a Node.js/Express backend and a MySQL database, fully installable as a Progressive Web App on desktop and mobile.
 
 ## Features
 
